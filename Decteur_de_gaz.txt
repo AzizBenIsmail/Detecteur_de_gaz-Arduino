@@ -2,6 +2,7 @@ Un détecteur de gaz enfichable augmente la sécurité domestique.
 Il mesure la concentration de gaz GPL, naturel ou de ville.
 Si le niveau de gaz devient trop élevé, une alarme visuelle et sonore se déclenche immédiatement
 Pour la détection de GPL, gaz naturel, avertisseur de gaz de charbon dans les ménages privés
+
 Technologie d'affichage numérique de LED, affichage de la concentration instantanée de gaz
 Trois indicateurs: connexion électrique, alarme sonore et visuelle
 Concentration Acquisition: LPG: 0,1~ 0,5%; natural gas: 0,1~ 0,3%; coal gas 0,1~ 0,5%
