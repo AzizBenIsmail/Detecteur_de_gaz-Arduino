@@ -12,4 +12,3 @@ la concentration instantanée des fuites de gaz et donner une alarme visuelle et
 Le détecteur de fuite de gaz adopte un capteur de type calefaction à semi-conducteur de haute qualité,
 qui peut fournir de bonnes performances. Protection intelligente de la sécurité de la famille. 
 Trois indicateurs: POWER, STATE, ALARM avec puissance 2 W.
-
