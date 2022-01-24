@@ -10,5 +10,6 @@ Energie :100-240 VAIl est conçu avec le contrôle de supervision intelligent MC
 La technologie d’affichage numérique à LED peut afficher 
 la concentration instantanée des fuites de gaz et donner une alarme visuelle et sonore.
 Le détecteur de fuite de gaz adopte un capteur de type calefaction à semi-conducteur de haute qualité,
-qui peut fournir de bonnes performances. Protection intelligente de la sécurité de la famille. Trois indicateurs: POWER, STATE, ALARM avec puissance 2 W.
+qui peut fournir de bonnes performances. Protection intelligente de la sécurité de la famille. 
+Trois indicateurs: POWER, STATE, ALARM avec puissance 2 W.
 
