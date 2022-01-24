@@ -6,3 +6,4 @@ Technologie d'affichage numérique de LED, affichage de la concentration instant
 Trois indicateurs: connexion électrique, alarme sonore et visuelle
 Concentration Acquisition: LPG: 0,1~ 0,5%; natural gas: 0,1~ 0,3%; coal gas 0,1~ 0,5%
 Son d'alarme sonore de 85 dB
+Energie :100-240 VA
